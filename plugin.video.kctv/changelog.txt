@@ -1,0 +1,6 @@
+v0.0.2
+Add placeholder Icon
+
+v0.0.1
+
+Initial version
